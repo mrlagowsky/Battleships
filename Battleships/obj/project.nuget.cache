@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "W85Mcv9YSlQnmlF+IMCssEMpN9e7h7pcmeqp8slYYUjRRk1sbV2e3rGG9mQ1h8gmKzyr9P42C4c7xhpnFwkc7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\klagowski\\Downloads\\Battleships2\\Battleships\\Battleships\\Battleships.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://10.100.0.37/NuPeek/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
